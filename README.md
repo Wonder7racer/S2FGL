@@ -1,4 +1,4 @@
-# $S^2$FGL: Spatial Spectral Federated Graph Learning
+# S2FGL: Spatial Spectral Federated Graph Learning
 
 ## Abstract
 
